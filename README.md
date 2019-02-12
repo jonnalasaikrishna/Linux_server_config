@@ -138,7 +138,7 @@ My project is built with Python 3. So, I need to install the Python 3 mod_wsgi p
 * Change to the `/var/www/catalog/catalog directory`.
 * Rename the `finalemp.py file to __init__.py using: mv finalemp.py __init__.py`.
 * We need to change sqlite to postgresql create_engine in `__init__.py,database_setup.py and emplist.py,
-# engine = create_engine("sqlite:///catalog.db")
+ engine = create_engine("sqlite:///catalog.db")
 engine = create_engine('postgresql://catalog:catalog@localhost/catalog')`
 ## Step 12.2: Authenticate login through Google
 * Go to Google Cloud Plateform.

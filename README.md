@@ -234,7 +234,6 @@ Restart Apache again: sudo service apache2 restart.
 * DigitalOcean How To Deploy a Flask Application on an Ubuntu VPS
 * GitHub Repositories
 
- [https://github.com/adityamehra/udacity-linux-server-configuration]
-(anumsh/Linux-Server-Configuration)
-( bencam/linux-server-configuration )
-(iliketomatoes/linux_server_configuration)
+  https://github.com/adityamehra/udacity-linux-server-configuration
+ 
+  https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps

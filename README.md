@@ -230,3 +230,10 @@ Restart Apache again: sudo service apache2 restart.
 * Open your browser to (http://3.91.252.200 or http://ec2-3-91-252-200.compute-1.amazonaws.com.)`
 ## step 14:Enable automatic (security) updates
 * `sudo apt-get dist-upgrade`
+## Other Helpful Resources
+* DigitalOcean How To Deploy a Flask Application on an Ubuntu VPS
+* GitHub Repositories
+adityamehra/udacity-linux-server-configuration
+anumsh/Linux-Server-Configuration
+bencam/linux-server-configuration
+iliketomatoes/linux_server_configuration
